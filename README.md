@@ -103,6 +103,10 @@ No back-reference are used in our example regex
 
 ### Look-ahead and Look-behind
 
+Look-ahead and Look-behind assert whether a particular pattern is present ahead or behind the current position in the string, without actually including that pattern in the match.
+
+No Look-ahead or Look-behind are used in the regex example 
+
 ## Author
 
 Stephanie Angelito is currently a student at northwestern University Full-flex Coding Boot-camp with a background in Biology. 
