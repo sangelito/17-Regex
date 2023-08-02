@@ -83,6 +83,11 @@ Here are some bracket expressions found in our URL:
 
 ### Greedy and Lazy Match
 
+Greedy and Lazy match allow you to find the longest and the shortest match respectively 
+
+In our regex there is a 'greedy' match
+- <code>([\da-z\.-]+) </code> = the <code>+</code> plus operator allows infinite character matching 
+
 ### Boundaries
 
 ### Back-references
