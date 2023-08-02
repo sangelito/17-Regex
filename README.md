@@ -90,10 +90,23 @@ In our regex there is a 'greedy' match
 
 ### Boundaries
 
+Boundaries are characters that define the edges or position within the text where a match can occur 
+
+- <code>^</code> = this symbol ensures that matches start at the beginning of the string
+- <code>$</code> = this symbol ensures that the match continues until the end of the  string
+
 ### Back-references
+
+Back-reference allow you to refer to previously matched groups within the same pattern 
+
+No back-reference are used in our example regex 
 
 ### Look-ahead and Look-behind
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+Stephanie Angelito is currently a student at northwestern University Full-flex Coding Boot-camp with a background in Biology. 
+
+Contact: 
+- Email: angelitostephanie@gmail.com
+- GitHub: https://github.com/sangelito
