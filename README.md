@@ -1,4 +1,4 @@
-# A Regex Tutorial; 
+# A Regex Tutorial
 
 Regular Expression, or commonly known as Regex is a sequence of characters that make up a pattern. These patterns can be used in algorithms to locate and replace specific patterns in a string. 
 
